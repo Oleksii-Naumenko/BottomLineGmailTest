@@ -1,0 +1,38 @@
+{
+  "time" : {
+    "start" : 1463067676469,
+    "stop" : 1463067708072,
+    "duration" : 31603
+  },
+  "testSuites" : [ {
+    "uid" : "aba6fb2a11e19a1",
+    "name" : "Surefire suite : Surefire test",
+    "title" : "Surefire suite : Surefire test",
+    "time" : {
+      "start" : 1463067676469,
+      "stop" : 1463067708072,
+      "duration" : 31603
+    },
+    "statistic" : {
+      "total" : 1,
+      "passed" : 1,
+      "pending" : 0,
+      "canceled" : 0,
+      "failed" : 0,
+      "broken" : 0
+    },
+    "description" : null,
+    "testCases" : [ {
+      "uid" : "57eccd773f569d24",
+      "name" : "test",
+      "title" : "Test",
+      "time" : {
+        "start" : 1463067676469,
+        "stop" : 1463067708072,
+        "duration" : 31603
+      },
+      "severity" : "NORMAL",
+      "status" : "PASSED"
+    } ]
+  } ]
+}

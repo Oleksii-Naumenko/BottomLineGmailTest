@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "HRK1-LHP-F49319",
+    "threads" : [ {
+      "title" : "22160@HRK1-LHP-F49319.main(1)",
+      "testCases" : [ {
+        "uid" : "57eccd773f569d24",
+        "name" : "test",
+        "title" : "Test",
+        "time" : {
+          "start" : 1463067676469,
+          "stop" : 1463067708072,
+          "duration" : 31603
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
